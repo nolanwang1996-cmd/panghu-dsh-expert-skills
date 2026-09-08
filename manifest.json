@@ -1,0 +1,82 @@
+[
+  {
+    "id": "wb-a-share-research",
+    "title": "A股研究专家团（WorkBuddy 精选）",
+    "category": "投资研究",
+    "intro": "源自 WorkBuddy 官方插件市场 a-share-analysis 包，7 个研究角色+20 个分析框架模块，已合并为单文件并适配单代理执行。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 90284
+  },
+  {
+    "id": "wb-ai-hedge-fund",
+    "title": "美股投资大师圆桌（WorkBuddy 精选）",
+    "category": "投资研究",
+    "intro": "源自 WorkBuddy 官方插件市场 ai-hedge-fund 包，21 位大师角色+分析师团队与协作规则，已合并为单文件并适配单代理执行。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 51360
+  },
+  {
+    "id": "wb-gaokao-advisor",
+    "title": "高考志愿规划专家（WorkBuddy 精选）",
+    "category": "教育升学",
+    "intro": "源自 WorkBuddy 官方插件市场 gaokao-advisor 包（顾问角色+志愿助手框架）；原包联网查询模块依赖其专属搜索工具，已注明按当前环境等价执行。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 98143
+  },
+  {
+    "id": "wb-deep-research",
+    "title": "深度调研专家（WorkBuddy 精选）",
+    "category": "调研分析",
+    "intro": "源自 WorkBuddy 官方插件市场 deep-research 包；原包附带微信公众号搜索模块依赖专属 API，未随附。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 43904
+  },
+  {
+    "id": "wb-sheetagent",
+    "title": "表格智能体 SheetAgent（WorkBuddy 精选）",
+    "category": "数据处理",
+    "intro": "源自 WorkBuddy 官方插件市场 sheetagent 包；原包依赖其内置 MCP 服务器执行实际表格操作，本技能保留方法论框架，实际执行按当前环境可用工具等价完成。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 97630
+  },
+  {
+    "id": "wb-agile-dev-team",
+    "title": "敏捷开发专家团 BMAD（WorkBuddy 精选）",
+    "category": "编程工程",
+    "intro": "源自 WorkBuddy 官方插件市场 agent-team-agile-workflow 包（BMAD 方法），7 角色完整定义，已合并为单文件并适配单代理执行。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 70567
+  },
+  {
+    "id": "wb-feature-dev",
+    "title": "功能开发三人组（WorkBuddy 精选）",
+    "category": "编程工程",
+    "intro": "源自 WorkBuddy 官方插件市场 feature-dev 包，3 角色完整定义。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 7269
+  },
+  {
+    "id": "wb-pr-review-toolkit",
+    "title": "PR 审查工具箱（WorkBuddy 精选）",
+    "category": "编程工程",
+    "intro": "源自 WorkBuddy 官方插件市场 pr-review-toolkit 包，6 个审查角色完整定义。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 23524
+  },
+  {
+    "id": "wb-security-scan",
+    "title": "安全扫描专家团（WorkBuddy 精选）",
+    "category": "编程工程",
+    "intro": "源自 WorkBuddy 官方插件市场 security-scan 包，7 个安全角色完整定义，已合并为单文件并适配单代理执行。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 101359
+  },
+  {
+    "id": "wb-dev-essentials",
+    "title": "开发必备五件套（WorkBuddy 精选）",
+    "category": "编程工程",
+    "intro": "源自 WorkBuddy 官方插件市场 development-essentials 包，5 个开发角色完整定义。",
+    "license_ref": "LicenseRef-WorkBuddy-marketplace-unverified",
+    "bytes": 16869
+  }
+]
